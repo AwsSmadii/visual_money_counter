@@ -1,4 +1,5 @@
 # visual_money_counter
+>>>>>>> HEAD
 
 A computer vision project for the detection of banknote denomination
 
@@ -41,3 +42,7 @@ python detect.py --weights runs/model_trained/bank_notes_v2.pt --source 0
 # License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
+=======
+the following projects aims to use the yolov8s pre trained model to detection a banknote and classify its denomination 
+the files are still missing some code which i will provide very soon so this is just an intial commit for the moment 
+>>>>>>> 3c1939d7d0792a15797ec4b4284ed7b8c5ff64ce
