@@ -1,0 +1,10 @@
+
+
+
+
+train: r"C:\Users\HP\Desktop\BankNotes_Project\train\images"
+val: r"C:\Users\HP\Desktop\BankNotes_Project\validation\images"
+
+
+nc: 5
+names: [One,Five,Ten,Twenty,Fifty]
