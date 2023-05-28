@@ -20,7 +20,7 @@ The model is trained and built with the help of YOLOv8 specifically the YOLOv8n 
 
 Some examples of the results
 
-![Image Description]('results_1.png')
+![Image Description]("C:\Users\HP\Desktop\vm_counter\results_1.png")
   
 # Getting started 
 instructions for setting up the detection model 
