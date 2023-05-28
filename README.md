@@ -4,11 +4,11 @@
 A computer vision project for the detection of banknote denomination
 
 # Table of Contents
-- [About The Project](#About the project)
-- [Getting Started](#Getting Started)
+- [About The Project](#About-the-project)
+- [Getting Started](#getting-started)
 - [License](#license)
 
-# About The Project
+## About The Project
 
 The project aims to to classify the banknote denomination in realtime using the webcam,additionally show the sum if multiple banknote values are on the screen
 
@@ -20,9 +20,9 @@ The model is trained and built with the help of YOLOv8 specifically the YOLOv8n 
 
 Some examples of the results
 
-![Image Description]("C:\Users\HP\Desktop\vm_counter\results_1.png")
+![results_1](https://github.com/Logatta/visual_money_counter/assets/127979606/e1c93e7f-cafc-4619-b42f-b9e0562b8091)
   
-# Getting started 
+## Getting started 
 instructions for setting up the detection model 
 
 Prerequisites
@@ -39,7 +39,7 @@ print('pip install -r requirmnets.txt')
 python detect.py --weights runs/model_trained/bank_notes_v2.pt --source 0
 
 
-# License
+## License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
