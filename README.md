@@ -20,8 +20,8 @@ The model is trained and built with the help of YOLOv8 specifically the YOLOv8n 
 
 Some examples of the results
 
-![Image Description]("C:\Users\HP\Desktop\vm_counter\results_1.png")
-  
+![results_1](https://github.com/Logatta/visual_money_counter/assets/127979606/e1c93e7f-cafc-4619-b42f-b9e0562b8091)
+
 # Getting started 
 instructions for setting up the detection model 
 
